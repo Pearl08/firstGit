@@ -1,4 +1,4 @@
-FROM nidhi/docimage
+FROM ubuntu
 
 ADD Blob /var/www/html/
 
