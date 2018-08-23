@@ -20,7 +20,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 $name = $_POST['login'];
 $pass = $_POST['password'];
 
-$hostname='nidhi123.cvoq5vq0omoy.us-east-1.rds.amazonaws.com';
+$hostname='edureka.cx9qgfyl1dhy.us-west-2.rds.amazonaws.com';
 $username='nidhi123';
 $password='nidhi123';
 $dbname='nidhi123';
